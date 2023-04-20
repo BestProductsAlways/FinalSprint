@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Kostantyn",
+        "age": 31,
+        "gender": "Male",
+        "isMarried": true,
+        "job": "Software developer",
+        "vehicle": "Ford",
+        "hobby": ["Reading", "Gardening", "Golfing"]
+
+
+    },
+    {
+        "name": "Phil",
+        "age": 51,
+        "gender": "Male",
+        "isMarried": true,
+        "job": "Security",
+        "vehicle": "Chevy",
+        "hobby": ["Gaming", "Under water Dancing", "Poker"]
+    },
+    {
+        "name": "Matt",
+        "age": 29,
+        "gender": "Neutral",
+        "isMarried": false,
+        "job": "Registered Nurse",
+        "vehicle": "Pinto",
+        "hobby": ["Shooting", "Fishing", "Coin Collecting"]
+    },
+    {
+        "name": "Billie",
+        "age": 72,
+        "gender": "Female",
+        "isMarried": true,
+        "job": "Security",
+        "vehicle": "Jeep",
+        "hobby": ["Racing", "Metal Detecting", "Salmon Fishing"]
+    },
+    {
+        "name": "Julia",
+        "age": 67,
+        "gender": "Female",
+        "isMarried": false,
+        "job": "Boss of Me",
+        "vehicle": "Honda",
+        "hobby": ["TikTok Videos", "Scrap Booking", "Gold Panning"]
+    }
+]
